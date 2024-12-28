@@ -9,7 +9,7 @@ DigitalBankingWeb is a web application designed to provide digital banking servi
 ## Screenshots
 
 ### Customers Page
-<img src="../frontend/images/customers-list.png" alt="Customers Page" width="600">
+<img src="images/customers-list.PNG" alt="Customers Page" width="600">
 *The customers page provides an overview of the customers list.*
 
 ### Account Management
